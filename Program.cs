@@ -1,0 +1,15 @@
+﻿using ConsoleApp5;
+using System;
+//Contagemde1a10.Main(args);
+//SomadeNúmeros.Main(args);
+//ContagemRegressiva.Main(args);
+//Tabuada.Main(args); 
+//VerificaçãodeParidade.Main(args);
+//CalculadoraSimples.Main(args);
+//BuscadeNúmero.Main(args);
+//ContagemdeVogais.main(args);
+//VerificaçãodeNúmeroPrimo.Main(args);
+//ContagemdeDígitos.Main(args);
+//ContarParÍmpar.Main(args);
+//SomadosNúmerosPares.Main(args);
+MultiplicaçãoporPotênciasde2.Main(args);
